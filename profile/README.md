@@ -4,7 +4,6 @@ Industry leading software development team
 
 We at **caca.org** focus ourselves on creating the best software solutions to unexistent problems.
 
-
 Our team is experienced in:
 
 - Python
@@ -12,8 +11,8 @@ Our team is experienced in:
 - Losing interest in a project after a week
 - Insulting eachother over dumb coding errors
 
-You can hire us by sending an email, which you can find in our future website.
+You can hire us by sending an email [here](mailto:caca-org-projects@carabinieri.eu.org)
 
 ----
 
-*Copyright 2023 caca.org software solutions*
+*Copyright 2024 caca.org software solutions*
